@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "1.9.21"
     kotlin("plugin.allopen") version "1.9.21"
     kotlin("plugin.jpa") version "1.9.21"
-    id("io.quarkus") version "3.6.4"
+    id("io.quarkus") version "3.8.1"
 }
 
 group = "com.fleet"
